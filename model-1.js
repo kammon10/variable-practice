@@ -9,3 +9,7 @@ var legos = 1000;
 var wine = true;
 var cats = false;
 var books = true;
+
+var chores = ["mow", "sweep", "dust"];
+var favorite = ["books", tree, "water"];
+console.log(favorite);
