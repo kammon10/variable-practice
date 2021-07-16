@@ -13,3 +13,15 @@ var books = true;
 var chores = ["mow", "sweep", "dust"];
 var favorite = ["books", tree, "water"];
 console.log(favorite);
+
+var myInfo = {
+  firstName: 'Katie',
+  lastName: 'Ammon',
+  age: 30,
+}
+
+var plants = {
+  tall: 'trees',
+  short: 'shrubs',
+  mini: 'moss',
+}
